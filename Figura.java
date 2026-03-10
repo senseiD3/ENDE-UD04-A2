@@ -50,3 +50,5 @@ public abstract class Figura {
 		return codigo;
 	}
 }
+
+
