@@ -47,3 +47,5 @@ public class Triangulo extends Figura {
 		return Math.sqrt(sp * (sp - lado1) * (sp - lado2) * (sp - lado3));
 	}
 }
+
+// Modificación hecha desde VS Code
